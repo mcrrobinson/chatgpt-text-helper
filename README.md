@@ -5,7 +5,7 @@ A Chrome extension that lets you highlight text on any webpage and interact with
 ## Features
 
 - 🖱️ Highlight any text on a webpage
-- 💬 Enter natural language prompts like "summarize this", "explain this", "translate to Spanish"
+- 💬 Enter natural language prompts like "summarise this", "explain this", "translate to Spanish"
 - ⚡ Get instant responses from ChatGPT
 - 🎨 Clean, modern UI that appears near your selection
 
@@ -32,13 +32,13 @@ A Chrome extension that lets you highlight text on any webpage and interact with
 1. Navigate to any webpage
 2. Highlight/select any text
 3. A ChatGPT Helper box will appear
-4. Enter your prompt (e.g., "summarize this", "explain like I'm 5", "translate to French")
+4. Enter your prompt (e.g., "summarise this", "explain like I'm 5", "translate to French")
 5. Press Enter or click "Send"
 6. Wait for ChatGPT's response
 
 ## Example Prompts
 
-- "Summarize this in 2 sentences"
+- "Summarise this in 2 sentences"
 - "Explain this concept"
 - "Translate to Spanish"
 - "What does this mean?"
@@ -72,12 +72,12 @@ This extension uses the OpenAI API, which requires payment. Typical costs are:
 - GPT-3.5-turbo: ~$0.002 per request (very affordable)
 - Check [OpenAI Pricing](https://openai.com/pricing) for current rates
 
-## Customization
+## Customisation
 
 You can modify the extension to:
 - Change the AI model (edit `background.js`, line with `model: 'gpt-3.5-turbo'`)
 - Adjust response length (edit `max_tokens` in `background.js`)
-- Customize the UI colors (edit `content.css`)
+- Customise the UI colours (edit `content.css`)
 - Add preset prompts
 
 ## Troubleshooting
@@ -94,6 +94,6 @@ You can modify the extension to:
 - Make sure you've loaded the extension in `chrome://extensions/`
 - Try refreshing the webpage
 
-## License
+## Licence
 
-MIT License - feel free to modify and use as you wish!
+MIT Licence - feel free to modify and use as you wish!

@@ -93,7 +93,3 @@ You can modify the extension to:
 **Extension not appearing:**
 - Make sure you've loaded the extension in `chrome://extensions/`
 - Try refreshing the webpage
-
-## Licence
-
-MIT Licence - feel free to modify and use as you wish!
